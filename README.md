@@ -12,6 +12,8 @@ A few years later, I discovered [fast.ai](https://www.fast.ai/) and it's [Practi
 
 That’s when I stumbled upon [The Odin Project](https://www.theodinproject.com/). Over the past year, this incredible resource has been my guide, marking the start of my self-directed journey to becoming a Full Stack Developer. It has provided me with the essential skills and knowledge to build robust applications and confidently navigate the tech world.
 
+Now, I’ve fallen in love with web development, and I plan to stay in this space for the next few years, honing my skills, building impactful projects, and growing as a developer. In the future, I aspire to revisit my passion for deep learning, combining my web development expertise with cutting-edge AI technologies to create meaningful solutions.
+
 <!---
 4bdullah7eeshan/4bdullah7eeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
