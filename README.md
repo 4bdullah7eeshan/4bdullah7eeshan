@@ -8,11 +8,8 @@
 My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyderabad, India. Before diving into tech, I worked as a Math educator with various educational organizations, such as NGOs, schools, and ed-tech startups.
 </div>
 
-<br/>
-
+<br />
 <a href="mailto:4bdullah7eeshan@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height=25></a>
-<a href="[https://www.linkedin.com/in/michalosman](https://www.linkedin.com/in/abdullah-zeeshan-7a8592318/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
 
 ## 🔧 Tech Stack
 
