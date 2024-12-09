@@ -238,8 +238,6 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
 </table>
 </div>
 
-
-
 ## Background
 
 <div align="justify">
