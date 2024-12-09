@@ -4,10 +4,13 @@
 
 ## Summary
 
+<div align="justify">
 My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyderabad, India. Before diving into tech, I worked as a Math educator with various educational organizations, such as NGOs, schools, and ed-tech startups.
+</div>
 
 ## 🔧 Tech Stack
 
+<div align="justify">
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -232,18 +235,42 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
     </td>
   </tr>
 </table>
+</div>
 
 
 
 ## Background
 
-My journey into the world of technology began in my late teens when I developed a keen interest in coding, machine learning, and artificial intelligence. I wrote my first `hello, world` program while taking Harvard's [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course which laid the groundwork for my understanding of computer science fundamentals.
+<div align="justify">
+  My journey into the world of technology began in my late teens when I developed a keen interest in coding, machine learning, and artificial intelligence. I wrote my first <code>hello, world</code> program while taking Harvard's 
+  <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">CS50: Introduction to Computer Science</a> course which laid the groundwork for my understanding of computer science fundamentals.
+</div>
 
-A few years later, I discovered [fast.ai](https://www.fast.ai/) and it's [Practical Deep Learning for Coders](https://course.fast.ai/), where I built my first image classifier with nearly 100% accuracy. However, I realized that while I was excited about deep learning, I lacked foundational skills in software development. To bridge this gap—and to ensure both learning and employability—I decided to first become proficient as a developer. 
+<div align="justify">
+  A few years later, I discovered <a href="https://www.fast.ai/" target="_blank">fast.ai</a> and its 
+  <a href="https://course.fast.ai/" target="_blank">Practical Deep Learning for Coders</a>, where I built my first image classifier with nearly 100% accuracy. However, I realized that while I was excited about deep learning, I lacked foundational skills in software development. To bridge this gap—and to ensure both learning and employability—I decided to first become proficient as a developer. 
+</div>
+<br />
+<div align="justify">
+  That’s when I stumbled upon <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. Over the past year, this incredible resource has been my guide, marking the start of my self-directed journey to becoming a Full Stack Developer. It has provided me with the essential skills and knowledge to build robust applications and confidently navigate the tech world.
+</div>
+<br />
+<div align="justify">
+  Now, I’ve fallen in love with web development, and I plan to stay in this space for the next few years, honing my skills, building impactful projects, and growing as a developer. In the future, I aspire to revisit my passion for deep learning, combining my web development expertise with cutting-edge AI technologies to create meaningful solutions.
+</div>
 
-That’s when I stumbled upon [The Odin Project](https://www.theodinproject.com/). Over the past year, this incredible resource has been my guide, marking the start of my self-directed journey to becoming a Full Stack Developer. It has provided me with the essential skills and knowledge to build robust applications and confidently navigate the tech world.
+## 📈 Stats
 
-Now, I’ve fallen in love with web development, and I plan to stay in this space for the next few years, honing my skills, building impactful projects, and growing as a developer. In the future, I aspire to revisit my passion for deep learning, combining my web development expertise with cutting-edge AI technologies to create meaningful solutions.
+![](https://komarev.com/ghpvc/?username=4bdullah7eeshan)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=4bdullah7eeshan&theme=dracula&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=4bdullah7eeshan&theme=vue-dark&hide_border=true"
+/>
+
+
 
 <!---
 4bdullah7eeshan/4bdullah7eeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
