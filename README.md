@@ -243,16 +243,16 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
 
 <div align="justify">
   My journey into the world of technology began in my late teens when I developed a keen interest in coding, machine learning, and artificial intelligence. I wrote my first <code>hello, world</code> program while taking Harvard's 
-  <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank">CS50: Introduction to Computer Science</a> course which laid the groundwork for my understanding of computer science fundamentals.
+  <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank" rel="noopener noreferrer">CS50: Introduction to Computer Science</a> course which laid the groundwork for my understanding of computer science fundamentals.
 </div>
 
 <div align="justify">
-  A few years later, I discovered <a href="https://www.fast.ai/" target="_blank">fast.ai</a> and its 
+  A few years later, I discovered <a href="https://www.fast.ai/" target="_blank" rel="noopener noreferrer">fast.ai</a> and its 
   <a href="https://course.fast.ai/" target="_blank">Practical Deep Learning for Coders</a>, where I built my first image classifier with nearly 100% accuracy. However, I realized that while I was excited about deep learning, I lacked foundational skills in software development. To bridge this gap—and to ensure both learning and employability—I decided to first become proficient as a developer. 
 </div>
 <br />
 <div align="justify">
-  That’s when I stumbled upon <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>. Over the past year, this incredible resource has been my guide, marking the start of my self-directed journey to becoming a Full Stack Developer. It has provided me with the essential skills and knowledge to build robust applications and confidently navigate the tech world.
+  That’s when I stumbled upon <a href="https://www.theodinproject.com/" target="_blank" rel="noopener noreferrer">The Odin Project</a>. Over the past year, this incredible resource has been my guide, marking the start of my self-directed journey to becoming a Full Stack Developer. It has provided me with the essential skills and knowledge to build robust applications and confidently navigate the tech world.
 </div>
 <br />
 <div align="justify">
