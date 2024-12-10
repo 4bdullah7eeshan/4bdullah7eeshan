@@ -7,7 +7,9 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
 </div>
 
 <br />
-<a href="mailto:4bdullah7eeshan@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height=25></a>
+<a href="mailto:4bdullah7eeshan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/4bdullah7eeshan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
 
 ## 🔧 Tech Stack
 
