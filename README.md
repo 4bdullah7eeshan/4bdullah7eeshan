@@ -246,10 +246,10 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
   My journey into the world of technology began in my late teens when I developed a keen interest in coding, machine learning, and artificial intelligence. I wrote my first <code>hello, world</code> program while taking Harvard's 
   <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="_blank" rel="noopener noreferrer">CS50: Introduction to Computer Science</a> course which laid the groundwork for my understanding of computer science fundamentals.
 </div>
-
+<br />
 <div align="justify">
   A few years later, I discovered <a href="https://www.fast.ai/" target="_blank" rel="noopener noreferrer">fast.ai</a> and its 
-  <a href="https://course.fast.ai/" target="_blank">Practical Deep Learning for Coders</a>, where I built my first image classifier with nearly 100% accuracy. However, I realized that while I was excited about deep learning, I lacked foundational skills in software development. To bridge this gap—and to ensure both learning and employability—I decided to first become proficient as a developer. 
+  <a href="https://course.fast.ai/" target="_blank">Practical Deep Learning for Coders</a>, course where I built my first image classifier with nearly 100% accuracy. However, I realized that while I was excited about deep learning, I lacked foundational skills in software development. To bridge this gap—and to ensure both learning and employability—I decided to first become proficient as a developer. 
 </div>
 <br />
 <div align="justify">
@@ -271,7 +271,9 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
   src="https://github-readme-streak-stats.herokuapp.com/?user=4bdullah7eeshan&theme=vue-dark&hide_border=true"
 />
 
-*Design Inpiration from [@michalosman](https://github.com/michalosman)'s GitHub*
+---
+
+<p><small><i>Design Inpiration: <a href="https://github.com/michalosman" target="_blank" rel="noopener noreferrer">@michalosman</a></i></small></p>
 
 
 <!---
