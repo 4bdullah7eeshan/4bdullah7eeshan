@@ -271,6 +271,7 @@ My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyd
   src="https://github-readme-streak-stats.herokuapp.com/?user=4bdullah7eeshan&theme=vue-dark&hide_border=true"
 />
 
+*Design Inpiration from [@michalosman](https://github.com/michalosman)'s GitHub*
 
 
 <!---
