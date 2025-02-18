@@ -3,7 +3,7 @@
 ## 👋 Hi there!
 
 <div align="justify">
-My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer from Hyderabad, India. Before diving into tech, I worked as a Math educator with various educational organizations, such as NGOs, schools, and ed-tech startups.
+My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer and Teacher from Hyderabad, India.
 </div>
 
 <br />
