@@ -3,12 +3,13 @@
 > Current Goals:
 > - Increase depth of understanding of things
 > - Strengthen *organic* Muscle Memory when coding/building
+> - Open Source Contributions
 > - DSA....pffffff!!!
 
 ## 👋 Hi there!
 
 <div align="justify">
-My name is Abdullah Zeeshan, and I am a passionate Full Stack Developer and Teacher from Hyderabad, India.
+My name is Abdullah Zeeshan, and I am a Full Stack Developer and Teacher from Hyderabad, India.
 </div>
 
 <br />
