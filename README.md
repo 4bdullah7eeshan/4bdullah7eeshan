@@ -1,5 +1,10 @@
 # Abdullah Zeeshan
 
+> Current Goals:
+> - Increase depth of understanding of things
+> - Strengthen *organic* Muscle Memory when coding/building
+> - DSA....pffffff!!!
+
 ## 👋 Hi there!
 
 <div align="justify">
