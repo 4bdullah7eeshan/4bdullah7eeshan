@@ -8,6 +8,7 @@ Current Activity:
 - Strengthen *organic* Muscle Memory when coding/building
 - Open Source Contributions
 - DSA....pffffff!!!
+- Wrapping up [The Odin Project](https://www.theodinproject.com/)
 
 <!---
 4bdullah7eeshan/4bdullah7eeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
